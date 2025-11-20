@@ -1,0 +1,6 @@
+[submodule "aats"]
+	path = aats
+	url = git@github.com:johnmay10000/aats.git
+[submodule "adaaa"]
+	path = adaaa
+	url = git@github.com:johnmay10000/adaaa.git
